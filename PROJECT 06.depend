@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1512500556 source:e:\project 06\main.c
+	<stdio.h>
+	<stdlib.h>
+	"headerfile.h"
+
+1512543967 e:\project 06\inseart.h
+
+1512543967 e:\project 06\showing.h
+
+1512522194 e:\project 06\searching.h
+
+1512539744 e:\project 06\name.h
+
+1512539744 e:\project 06\phone.h
+
+1512539744 e:\project 06\roll.h
+
+1512522203 e:\project 06\headerfile.h
+	"inseart.h"
+	"showing.h"
+	"searching.h"
+	"name.h"
+	"phone.h"
+	"roll.h"
+	"department.h"
+
+1512539744 e:\project 06\department.h
+
